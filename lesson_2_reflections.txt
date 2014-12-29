@@ -1,3 +1,5 @@
+This is the file for lesson 2
+
 What happens when you initialize a repository? Why do you need to do it?
 Git creates a list of the files and keeps track of which ones have no commit.
 
