@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git creates a list of the files and keeps track of which ones have no commit.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?  The staging area differentiates between those files that form part of a repository and those that do not.  The working directory merely shows all the files in the directory that are not hidden
