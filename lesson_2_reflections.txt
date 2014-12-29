@@ -1,4 +1,6 @@
-This is the file for lesson 2
+How can you use the staging area to make sure you have one commit per logical change?
+
+Only "git add" a file to move it to the staging area when you are ready to commit it.
 
 What happens when you initialize a repository? Why do you need to do it?
 Git creates a list of the files and keeps track of which ones have no commit.
